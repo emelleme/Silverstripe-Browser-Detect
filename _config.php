@@ -1,2 +1,0 @@
-<?php
-/* Browser Detect Module */
